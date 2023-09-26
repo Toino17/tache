@@ -12,6 +12,8 @@
     </ul>
     <h1>Vue de Base</h1>
     <h2>Voici les tâches à faire aujourd'hui:</h2>
-    <script src="../Public/scripts/js.js"></script>
+    <form class='formBase'>
+    </form>
+    <script src="../Public/scripts/get.js"></script>
 </body>
 </html>

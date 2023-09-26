@@ -14,6 +14,6 @@
     <input type="text" name='addTaskInput' id='addTaskInput' class='addTaskInput'>
     <input type="submit" name='addTaskSubmit' id='addTaskSubmit' class='addTaskSubmit'>
     </form>
-    <script src="../Public/scripts/js2.js"></script>
+    <script src="../Public/scripts/post.js"></script>
 </body>
 </html>
